@@ -1,2 +1,7 @@
-# Python-Oops-Concept
-This repository contains basic implementations of Object-Oriented Programming (OOP) concepts in Python, including classes, objects, inheritance, encapsulation, and polymorphism. It is designed for beginners to understand core OOP principles with simple examples.
+This repository covers Python basic to advanced concepts with practical examples. It includes implementations of condition statements (if-elif), loops, functions, dictionaries, error handling, and a simple calculator project.
+
+It also demonstrates Object-Oriented Programming (OOP) concepts such as classes, objects, inheritance, encapsulation, and polymorphism.
+
+Additionally, the project introduces popular Python libraries like NumPy and Pandas for data handling and numerical operations.
+
+This repository is ideal for beginners and students who want to build a strong foundation in Python programming.
